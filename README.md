@@ -4,7 +4,7 @@
 - create your virtual enviroment in the root directory using virtualenv
 - activate the enviroment
 - run `pip install requirements.txt` to install the dependencies
-- now run the app.py file, the server should start
+- now run the `app.py file`, the server should start
 
 ### How to make Requests
 
