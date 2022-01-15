@@ -9,8 +9,8 @@
 ### How to make Requests
 
 - To create a user send an POST request to `/users` endpoint with the following request body as show below  
-![POST_request]("POST_request.PNG")
+![POST_request](POST_request.PNG)
 - To display a user send a GET request to  `/users/{id}` endpoint, the id of a particular user can be found from the `data.json file`
 - To update a user send a PUT request to `/users/{id}` endpoint, the id of a particular user can be found from the `data.json file`, with the following request body  
-![PUT_request]("PUT_request.PNG")
+![PUT_request](PUT_request.PNG)
 - To delete a user send a DELETE request to `/users/{id}` endpoint, the id of a particular user can be found from the `data.json file`
